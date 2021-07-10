@@ -1,0 +1,7 @@
+{
+  "name": "guidenavi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
